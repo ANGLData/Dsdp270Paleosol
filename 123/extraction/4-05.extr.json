@@ -1,0 +1,35 @@
+{
+    "beam_diameter": "",
+    "cleanup_duration": 600.0,
+    "commit": "ec68dfd8bbbb17004c9e5c482cdab62a36d1629c",
+    "extract_device": "Ablation CO2",
+    "extract_duration": 30.0,
+    "extract_units": "watts",
+    "extract_value": 10.0,
+    "extraction_context": {},
+    "grain_polygons": [],
+    "light_value": 0,
+    "load_holder": "WISCAR-164",
+    "load_name": "7",
+    "measured_response": null,
+    "pattern": "",
+    "positions": [
+        {
+            "is_degas": false,
+            "position": "49",
+            "x": 34.808,
+            "y": 19.672,
+            "z": 12.0
+        }
+    ],
+    "post_cleanup_duration": 0.0,
+    "pre_cleanup_duration": 0.0,
+    "ramp_duration": 0.0,
+    "ramp_rate": 0.0,
+    "requested_output": null,
+    "setpoint_stream": null,
+    "snapshots": [],
+    "tray": "WISCAR-164",
+    "videos": [],
+    "weight": 0.847
+}
